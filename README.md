@@ -5,6 +5,6 @@ A [__git-repo__](https://code.google.com/p/git-repo/) manifest for the __rust-gn
 * Set up the working copy:
 
 ```shell
-repo init -u https://github.com/gkoz/rust-gnome-manifest
-repo sync
+> repo init -u https://github.com/gkoz/rust-gnome-manifest
+> repo sync
 ```
