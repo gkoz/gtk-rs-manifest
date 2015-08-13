@@ -5,7 +5,7 @@
 	<default remote="github" revision="master" />
 	<project name="glib" />
 	<project name="cairo" />
-	<project name="examples" />
+	<project name="examples" revision="pending" />
 	<project name="gdk" />
 	<project name="gtk" />
 	<project name="pango" />
