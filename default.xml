@@ -9,5 +9,6 @@
 	<project name="gdk" />
 	<project name="gtk" />
 	<project name="pango" />
+	<project name="sys" />
 	<project path=".cargo" remote="gkoz" name="rust-gnome-cargo-override" />
 </manifest>
