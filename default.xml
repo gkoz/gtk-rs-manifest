@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="github" fetch="https://github.com/rust-gnome" />
+	<remote name="github" fetch="https://github.com/gtk-rs" />
 	<remote name="gkoz" fetch="https://github.com/gkoz" />
 	<default remote="github" revision="master" />
 	<project name="glib" />
@@ -10,5 +10,5 @@
 	<project name="gtk" />
 	<project name="pango" />
 	<project name="sys" />
-	<project path=".cargo" remote="gkoz" name="rust-gnome-cargo-override" />
+	<project path=".cargo" remote="gkoz" name="gtk-rs-cargo-override" />
 </manifest>
